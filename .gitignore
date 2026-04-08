@@ -1,0 +1,17 @@
+.DS_Store
+__MACOSX/
+.vscode/
+train/
+test/
+val/
+chest_xray/
+*.npz
+
+.vscode/
+chest_xray/
+train/
+test/
+val/
+.DS_Store
+__MACOSX/
+*.npz
